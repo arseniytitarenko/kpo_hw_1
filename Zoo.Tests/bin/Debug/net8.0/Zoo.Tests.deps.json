@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "Moq": "4.20.72",
+          "ReportGenerator": "5.4.4",
           "Zoo.Domain": "1.0.0",
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.3",
@@ -376,6 +377,7 @@
           }
         }
       },
+      "ReportGenerator/5.4.4": {},
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -1172,6 +1174,13 @@
       "sha512": "sha512-QWINE2x3MbTODsWT1Gh71GaGb5icBz4chS8VYvTgsBnsi8esgN6wtHhydd7fvToWECYGq7T4cgBBDiKD/363fg==",
       "path": "nuget.frameworks/6.5.0",
       "hashPath": "nuget.frameworks.6.5.0.nupkg.sha512"
+    },
+    "ReportGenerator/5.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DAHP60NtrwdtZndBMJI5si6Pw8W/+kgbb8jjKzSxPwy7Nm1eOgZNAi+xnTEUtsfytrNG9Hex7VpKrf26OR1ypQ==",
+      "path": "reportgenerator/5.4.4",
+      "hashPath": "reportgenerator.5.4.4.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",

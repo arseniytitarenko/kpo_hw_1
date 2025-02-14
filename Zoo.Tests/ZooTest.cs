@@ -91,4 +91,31 @@ public class ZooTest
         Assert.Contains(thing, result);
         Assert.Equal(2, result.Count);
     }
+    
+    [Fact]
+    public void Thing_ToString_ReturnsCorrectFormat()
+    {
+        Thing computer = new Computer();
+        computer.Number = 7;
+        
+        Assert.Equal("№7 - Computer", computer.ToString());
+    }
+
+    [Fact]
+    public void Animal_ToString_ReturnsCorrectFormat()
+    {
+        Animal monkey = new Monkey(1, 7);
+        monkey.Number = 2;
+        
+        Assert.Equal("№2 - Monkey потребляет 1 кг/сутки, доброта: 7", monkey.ToString());
+    }
+    
+    [Fact]
+    public void Herbo_Kindness_OutOfRange_ThrowsException()
+    {
+        var herboMock = new Mock<Herbo>(10, 5) { CallBase = true };
+
+        Assert.Throws<ArgumentOutOfRangeException>(() => herboMock.Object.Kindness = 0);
+        Assert.Throws<ArgumentOutOfRangeException>(() => herboMock.Object.Kindness = 11);
+    }
 }

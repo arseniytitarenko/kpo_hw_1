@@ -105,3 +105,4 @@ C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Tests\obj\Debug\net8.0\refint\Zoo
 C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Tests\obj\Debug\net8.0\Zoo.Tests.pdb
 C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Tests\obj\Debug\net8.0\Zoo.Tests.genruntimeconfig.cache
 C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Tests\obj\Debug\net8.0\ref\Zoo.Tests.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Tests\obj\Debug\net8.0\Zoo.Tests.sourcelink.json
