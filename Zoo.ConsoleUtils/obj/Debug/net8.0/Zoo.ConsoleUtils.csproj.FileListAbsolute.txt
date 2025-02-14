@@ -1,0 +1,15 @@
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\bin\Debug\net8.0\Zoo.ConsoleUtils.deps.json
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\bin\Debug\net8.0\Zoo.ConsoleUtils.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\bin\Debug\net8.0\Zoo.ConsoleUtils.pdb
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\bin\Debug\net8.0\Zoo.Domain.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\bin\Debug\net8.0\Zoo.Domain.pdb
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.csproj.AssemblyReference.cache
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.AssemblyInfoInputs.cache
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.AssemblyInfo.cs
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.csproj.CoreCompileInputs.cache
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.Cons.F95B8E3D.Up2Date
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\refint\Zoo.ConsoleUtils.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\Zoo.ConsoleUtils.pdb
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.ConsoleUtils\obj\Debug\net8.0\ref\Zoo.ConsoleUtils.dll

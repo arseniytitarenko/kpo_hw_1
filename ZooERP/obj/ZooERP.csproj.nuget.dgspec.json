@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\ZooERP\\ZooERP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.ConsoleUtils\\Zoo.ConsoleUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.ConsoleUtils\\Zoo.ConsoleUtils.csproj",
+        "projectName": "Zoo.ConsoleUtils",
+        "projectPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.ConsoleUtils\\Zoo.ConsoleUtils.csproj",
+        "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.ConsoleUtils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arsen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj": {
+                "projectPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\arsen\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj",
+        "projectName": "Zoo.Domain",
+        "projectPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj",
+        "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arsen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\arsen\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\ZooERP\\ZooERP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\ZooERP\\ZooERP.csproj",
+        "projectName": "ZooERP",
+        "projectPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\ZooERP\\ZooERP.csproj",
+        "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\ZooERP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arsen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.ConsoleUtils\\Zoo.ConsoleUtils.csproj": {
+                "projectPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.ConsoleUtils\\Zoo.ConsoleUtils.csproj"
+              },
+              "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj": {
+                "projectPath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\Zoo.Domain\\Zoo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\arsen\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

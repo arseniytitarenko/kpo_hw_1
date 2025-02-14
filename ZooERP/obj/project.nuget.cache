@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4ujJfLWIDM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arsen\\hse\\2_course\\KPO\\HW1\\ZooERP\\ZooERP\\ZooERP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arsen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\arsen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

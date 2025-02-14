@@ -1,0 +1,11 @@
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\bin\Debug\net8.0\Zoo.Domain.deps.json
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\bin\Debug\net8.0\Zoo.Domain.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\bin\Debug\net8.0\Zoo.Domain.pdb
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\Zoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\Zoo.Domain.AssemblyInfoInputs.cache
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\Zoo.Domain.AssemblyInfo.cs
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\Zoo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\Zoo.Domain.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\refint\Zoo.Domain.dll
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\Zoo.Domain.pdb
+C:\Users\arsen\hse\2_course\KPO\HW1\ZooERP\Zoo.Domain\obj\Debug\net8.0\ref\Zoo.Domain.dll
