@@ -21,3 +21,5 @@
 #### 5. Dependency Inversion Principe
 Классы должны зависеть от абстракций, а не от конкретных реализаций.
 - Внедрение зависимостей через `Microsoft.Extensions.DependencyInjection` позволяет инвертировать зависимости, таким образом классы, такие как `Zoo`, зависят не от конкретных реализаций, а от абстракций (`IVeterinaryClinic`, `IConsoleService`).
+## Тесты:
+`line-rate="0.9333" branch-rate="0.8332999999999999"`
